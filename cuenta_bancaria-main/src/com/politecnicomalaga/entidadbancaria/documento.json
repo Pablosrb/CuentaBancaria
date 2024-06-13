@@ -1,0 +1,9 @@
+{
+    "nombre":"JORGE ALEJANDRO",
+    "apellidos":"MARTINEZ PAZOS",
+    "mail":"eljorgedelpueblo@yahoo.com",
+    "documento":{
+        "tipo":"DNI",
+        "numero":"34505855"
+    }
+}
